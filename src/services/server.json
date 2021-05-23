@@ -1,0 +1,65 @@
+{
+  "services": [
+    { "id": 1, "title": "Pix", "iconName": "diamond" },
+    { "id": 2, "title": "Pagar", "iconName": "barcode" },
+    { "id": 3, "title": "Indicar amigos", "iconName": "user" },
+    { "id": 4, "title": "Transferir", "iconName": "bitcoin" },
+    { "id": 5, "title": "Depositar", "iconName": "bitcoin" },
+    { "id": 6, "title": "Empréstimo", "iconName": "dollar" },
+    { "id": 7, "title": "Cartão virtual", "iconName": "credit-card" },
+    { "id": 8, "title": "Recarga de celular", "iconName": "mobile" },
+    { "id": 9, "title": "Ajustar limite", "iconName": "sliders" },
+    { "id": 10, "title": "Bloquear cartão", "iconName": "lock" },
+    { "id": 11, "title": "Cobrar", "iconName": "bitcoin" },
+    { "id": 12, "title": "Doação", "iconName": "dollar" },
+    { "id": 13, "title": "Me ajuda", "iconName": "question-circle" }
+  ],
+
+  "setting_items": [
+    {
+      "id": 1,
+      "title": "Me ajuda",
+      "iconName": "question-circle-o"
+    },
+    {
+      "id": 2,
+      "title": "Perfil",
+      "iconName": "user-o"
+    },
+    {
+      "id": 3,
+      "title": "Configurar conta",
+      "iconName": "bitcoin"
+    },
+    {
+      "id": 4,
+      "title": "Minhas chaves pix",
+      "iconName": "diamond"
+    },
+    {
+      "id": 5,
+      "title": "Configurar cartão",
+      "iconName": "credit-card"
+    },
+    {
+      "id": 6,
+      "title": "Pedir conta PJ",
+      "iconName": "home"
+    },
+    {
+      "id": 7,
+      "title": "Configurar notificações",
+      "iconName": "envelope-o"
+    },
+    {
+      "id": 8,
+      "title": "Configurações do app",
+      "iconName": "mobile"
+    },
+    {
+      "id": 9,
+      "title": "Sobre",
+      "iconName": "question-circle-o"
+    }
+  ]
+}
